@@ -3,6 +3,7 @@
 | Autor |
 |-------|
 |Martinez Jheferson|
+|Juancito Perez|
 
 ## Descripción
 El script implementa la suma de so numeros y realiza la validacion de los operandos 
