@@ -1,4 +1,9 @@
 # Aplicación operacion Suma
+
+| Autor |
+|-------|
+|Martinez Jheferson|
+
 ## Descripción
 El script implementa la suma de so numeros y realiza la validacion de los operandos 
 ## Funcionalidades
